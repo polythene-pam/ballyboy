@@ -5,9 +5,9 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <img src={logo} className="App-logo2" alt="logo" />
         <p>
-          H3H3
+          <a href="choicesapp://redirectToLogin">Login to choices</a> H3H3
         </p>
       </header>
     </div>
